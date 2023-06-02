@@ -1,0 +1,392 @@
+A Bonifacio St: Latitude: 14.5705504, Longitude: 121.0297876
+A Del Rosario St: Latitude: 14.4836814, Longitude: 120.8979693
+A Mabini St: Latitude: 14.5774018, Longitude: 120.9813317
+A Soriano Ave: Latitude: 10.3244785, Longitude: 123.9413894
+AITI Native Center: Coordinates not found
+Abellana Sports Complex: Coordinates not found
+Aicila Suites Hotel: Latitude: 10.3604422, Longitude: 123.9156682
+Allsons Inn: Latitude: 10.3097218, Longitude: 123.90376244272426
+Allure Hotel and Suites: Coordinates not found
+Alumnos: Latitude: 10.2840299, Longitude: 123.8727529
+American Internation Training Institute: Coordinates not found
+American International Training Institute: Coordinates not found
+Amisa Residences: Coordinates not found
+Andy Hotel: Latitude: 10.3315476, Longitude: 123.93569373673441
+Apas: Latitude: 55.2026717, Longitude: 48.5068612
+Asilo De La Milagrosa: Latitude: 10.31520265, Longitude: 123.90206949011848
+Asilo de la Milagrosa: Latitude: 10.31520265, Longitude: 123.90206949011848
+Ayala Center Cebu: Latitude: 10.3172985, Longitude: 123.9053945
+Ayala Public Utility Vehicle Terminal: Coordinates not found
+B Aranas St: Latitude: 10.2949787, Longitude: 123.8912337
+B Benedicto St: Latitude: 10.3057172, Longitude: 123.9109403
+BM Dimataga St: Coordinates not found
+Babag 2 Elementary School: Error occurred - Service timed out
+Babag Elementary School: Latitude: 10.3801498, Longitude: 123.85586585920919
+Babag National High School: Latitude: 10.28822375, Longitude: 123.94559507491883
+Babag Night High School: Latitude: 10.288077099999999, Longitude: 123.94605498312522
+Babang II Road: Error occurred - Service timed out
+Bacayan: Latitude: 10.3869569, Longitude: 123.921265
+Banawa: Latitude: -0.6738519, Longitude: 119.7417712
+Banilad Town Center: Latitude: 10.34096955, Longitude: 123.91256831740746
+Basilica Minore del Sto Niño: Coordinates not found
+Be Resorts Mactan: Latitude: 10.3143389, Longitude: 124.0261339
+Benedicto College: Latitude: 10.3360182, Longitude: 123.9326983
+Benedicto St: Latitude: 10.7247598, Longitude: 122.5586507
+Bonifacio St: Latitude: 15.924405, Longitude: 120.3446017
+Brgy Parian: Latitude: 14.2105433, Longitude: 121.1587814
+Bridges Town Square: Coordinates not found
+Bulacao: Latitude: 7.8671468, Longitude: 125.2409514
+Bureau of Immigration: Latitude: 10.3040181, Longitude: 123.9116942
+Bureau of Internal Revenue BIR: Latitude: 14.64233295, Longitude: 121.04308828895526
+Bureau of Quarantine: Latitude: 14.58451445, Longitude: 120.9724600844658
+Busay: Latitude: 6.9835406, Longitude: 122.2398521
+C Padilla St: Latitude: 10.2928242, Longitude: 123.88534
+CCNSHS: Coordinates not found
+CICC: Latitude: -22.909577249999998, Longitude: -43.202634950000004
+CM Cabahug: Coordinates not found
+CPILS: Latitude: 10.3027975, Longitude: 123.9063072
+Calamba Cemetery: Latitude: 10.30350375, Longitude: 123.88593388982964
+Camelita Monastery: Coordinates not found
+Camp Lapu Lapu Elementary School: Latitude: 10.33707845, Longitude: 123.9064604331434
+Capitol: Latitude: 37.2839719, Longitude: -121.8417558
+Carbon City Hall: Latitude: 39.542728, Longitude: -110.738174
+Carbon Public Market: Latitude: 10.291230200000001, Longitude: 123.89802977203942
+Carlock St: Latitude: 32.7188538, Longitude: -97.3307538
+Carreta Cemetery: Latitude: 10.31036295, Longitude: 123.90943006691177
+Castle Peak Hotel: Latitude: 10.3226178, Longitude: 123.91378774277405
+Cattleya Gardens and Memorial Park: Coordinates not found
+Cebu Business Park Waste Water Treatment Facility: Coordinates not found
+Cebu City Hall: Latitude: 10.292805999999999, Longitude: 123.90166029493656
+Cebu City Health Center: Latitude: 10.3697467, Longitude: 123.9182955
+Cebu City Medical Center: Latitude: 10.29741095, Longitude: 123.89142208676962
+Cebu Country Club: Latitude: 10.331683349999999, Longitude: 123.91608327484991
+Cebu Daily News: Latitude: 10.3114739, Longitude: 123.92154083217132
+Cebu Doctors University: Latitude: 10.319869749999999, Longitude: 123.93308285384921
+Cebu Doctors University Hospital: Latitude: 10.3144624, Longitude: 123.89193436047961
+Cebu Homes and Builders Center: Coordinates not found
+Cebu Institute of Medicine: Latitude: 10.3076776, Longitude: 123.896767
+Cebu Institute of Technology University CITU: Coordinates not found
+Cebu International Convention Center: Latitude: 10.3267281, Longitude: 123.93625378954194
+Cebu Macta Ferry Terminal: Coordinates not found
+Cebu Mary Immaculate College: Coordinates not found
+Cebu Metropolitan Cathedral: Latitude: 10.29580015, Longitude: 123.9028379984708
+Cebu North Bus Terminal: Latitude: 10.31098995, Longitude: 123.92084962432817
+Cebu Parklane Hotel: Latitude: 10.320460449999999, Longitude: 123.90318584375031
+Cebu Provincial Capitol: Latitude: 10.316719, Longitude: 123.8907131
+Cebu Sea World: Coordinates not found
+Cebu South Bus Terminal: Latitude: 10.29791405, Longitude: 123.89347780665133
+Cebu South Bus Terminal CSBT: Coordinates not found
+Cebu Technological University: Latitude: 10.296583949999999, Longitude: 123.90653939806288
+Cebu Technological University CTU: Coordinates not found
+Cebu Veterance Drive: Coordinates not found
+Cebu White Sands: Latitude: 10.289634750000001, Longitude: 123.99564546526054
+Citi Park: Latitude: 41.9183759, Longitude: -87.6482353
+Coca Cola: Latitude: 10.6791038, Longitude: 122.9560493
+Coca Cola Bottler Philippines Inc: Latitude: 6.9248423500000005, Longitude: 122.08160628958214
+Coca Cola Bottlers Philippines Inc: Coordinates not found
+Cofta Mouldings Corporation: Coordinates not found
+Collegio de la Immacuada Concepcion: Coordinates not found
+Collegio de la Immaculada Concepcion: Coordinates not found
+Colon: Latitude: 9.3553005, Longitude: -79.8974085
+Colon Obelisk: Latitude: 10.2979734, Longitude: 123.9036774
+Colon St: Latitude: 41.961778, Longitude: -85.324734
+Colonnade Supermarket: Latitude: 10.296936200000001, Longitude: 123.90012777447205
+Commission on Audit COA: Latitude: 16.0329271, Longitude: 120.2307031
+Cordova: Latitude: 37.8845813, Longitude: -4.7760138
+Cordova Academy Cooperative School: Coordinates not found
+Cordova Central School: Latitude: 17.7681295, Longitude: 121.6551974850992
+Cordova Municipal Hall: Latitude: 10.25224415, Longitude: 123.94982199983957
+Cortes General Hospital: Latitude: 10.329123800000001, Longitude: 123.94346395760705
+Country Mall: Latitude: 11.9740462, Longitude: 8.5469826
+Court of Appeals: Latitude: 14.5798569, Longitude: 120.9832247733871
+Court of Appeals Katipunan St: Coordinates not found
+Crown Regency Hotel: Latitude: 10.3077257, Longitude: 123.8940493
+Crown Regency Suites: Latitude: 31.8265509, Longitude: -102.35352006148796
+D Gaisano St: Coordinates not found
+Department of Foreign Affairs DFA: Latitude: 7.0499858, Longitude: 125.5880377
+Dionsio Jakosalem St: Coordinates not found
+Don Carlos Gothong High School: Latitude: 10.2942877, Longitude: 123.88997179328133
+Don Vicente Rama Memorial National High School: Latitude: 10.2908708, Longitude: 123.86553736535043
+EMD Carmelite School: Latitude: 10.319636, Longitude: 123.99464964181638
+Eastern Christian School: Latitude: 14.646049, Longitude: 121.1160643
+Elizabeth Mall Emall: Coordinates not found
+Escario Central Mall: Coordinates not found
+Express Inn: Latitude: 29.8899785, Longitude: -95.4128695
+F Cabahug St: Latitude: 10.3274961, Longitude: 123.9214595
+F Urdaneta St: Latitude: 14.5894486, Longitude: 120.9756209
+Fooda Guadalupe: Latitude: 10.3236486, Longitude: 123.88402397774624
+Fooda Saversmart: Latitude: 10.3252323, Longitude: 123.9173915
+Fuente Osmena Circle: Latitude: 10.3092108, Longitude: 123.8933545
+Fuente Osmeña: Coordinates not found
+Fuente Osmeña Circle: Coordinates not found
+GV Tower Hotel: Latitude: 10.2975344, Longitude: 123.89734349405595
+Gaisano Country Mall: Latitude: 10.3396607, Longitude: 123.9106666
+Gaisano Coutry Mall: Coordinates not found
+Gaisano Grand Jai Alai: Latitude: 10.2920179, Longitude: 123.8796808
+Gaisano Grand Mall: Latitude: 7.445392, Longitude: 125.8109495
+Gaisano Macta: Coordinates not found
+Gaisano Mactan: Latitude: 10.3162632, Longitude: 123.9627951
+Gaisano Main: Latitude: 10.29733125, Longitude: 123.90158893663029
+Gaisano Tisa: Latitude: 10.29959705, Longitude: 123.86933544065025
+Gen Echavez St: Latitude: 10.3066545, Longitude: 123.9024596
+General Maxilom Ave: Latitude: 10.308958, Longitude: 123.9069127
+General Maxilom Ave Ext: Coordinates not found
+Ginebra San Miguel Inc: Latitude: 10.3188357, Longitude: 123.9203029
+Goldberry Suites and Hotel: Coordinates not found
+Golden Peak Hotel: Latitude: 10.31850885, Longitude: 123.90030889618434
+Good Shepherd St: Latitude: 22.3162555, Longitude: 114.1795528
+Gorordo Ave: Latitude: 10.3148111, Longitude: 123.9018988
+Grand Arcade Building: Latitude: 51.5053383, Longitude: -0.0875098469912466
+Grand Mall: Latitude: 12.1392099, Longitude: -86.2291611
+Guadalupe Church: Latitude: 14.566168600000001, Longitude: 121.043249
+Gv Tower Hotel: Latitude: 10.2975344, Longitude: 123.89734349405595
+Hall of Justice: Latitude: 32.7161748, Longitude: -117.16606496964661
+Harolds Hotel Cebu: Latitude: 10.3195965, Longitude: 123.89913790663383
+Hopodromo: Coordinates not found
+Horizons 101: Latitude: 10.3105944, Longitude: 123.89744769044117
+Hotel Elizabeth Cebu: Latitude: 10.31651655, Longitude: 123.90225225378276
+Hotel Nenita: Coordinates not found
+IT Park: Latitude: 41.34245765, Longitude: 69.3361658068533
+Ibo Elementary School: Latitude: 10.330858150000001, Longitude: 123.9885444908397
+Iglesia ni Cristo: Latitude: 14.42099355, Longitude: 121.01877924536868
+Imperial Palace Waterpark Resort & Spa: Coordinates not found
+Imus Ave: Latitude: 10.3021912, Longitude: 123.9021509
+Inayawan Church: Coordinates not found
+Insular Kife Cebu Business Center: Coordinates not found
+Insular Life Cebu Busincess Center: Coordinates not found
+Insular Life Cebu Business Center: Coordinates not found
+J Alcantara: Latitude: 10.2995655, Longitude: 123.8891694
+J Centre: Latitude: 49.0467275, Longitude: 2.0951961
+JC Veyra St: Coordinates not found
+JY Square Mall: Latitude: 26.9107173, Longitude: 75.8124237
+Jai Alai: Latitude: 26.052855, Longitude: -80.1366946
+Jose Fortichi St: Coordinates not found
+Juan Luna Ave: Latitude: 10.3089528, Longitude: 123.9191414
+Junquera St: Latitude: 10.2989475, Longitude: 123.8999147
+Katipunan Lumber: Latitude: 10.2947747, Longitude: 123.8938883
+Katipunan St: Latitude: 10.2987524, Longitude: 123.8821918
+Keppel Tower Cebu Business Park: Coordinates not found
+Kingdom Resources Corporation: Coordinates not found
+Kosmos Furniture Designs Philippines Inc: Coordinates not found
+Kuya J's Restaurant: Latitude: 14.591085, Longitude: 120.9989397
+LS Pension House: Latitude: 10.302745250000001, Longitude: 123.89797687833983
+LS Pension House 1: Coordinates not found
+La Nueva: Latitude: 13.2554016, Longitude: -85.5937556
+La Nueva Supermarket: Latitude: 10.292114, Longitude: 123.90246088186433
+Labangon: Latitude: 10.9166347, Longitude: 123.9977686
+Labangon Elementary School: Latitude: 10.29971115, Longitude: 123.88053421147002
+Labangon Public Market: Latitude: 10.2996821, Longitude: 123.87944435
+Labangon Public Markey: Coordinates not found
+Lahug: Latitude: 10.3309342, Longitude: 123.8981322
+Lahug Brgy Hall: Latitude: 10.324155000000001, Longitude: 123.89848493453354
+Lakandula St: Latitude: 14.6072071, Longitude: 120.9669338
+Landers Superstore Cebu: Latitude: 10.32083055, Longitude: 123.90973395772943
+Lapu Lapu City Central School: Latitude: 10.30907745, Longitude: 123.94757291128349
+Lapu Lapu City PUJ Terminal: Coordinates not found
+Lapu Lapu City Public Market: Latitude: 10.311088049999999, Longitude: 123.95051388944455
+Legaspi Extn: Coordinates not found
+Legaspi St: Latitude: 10.2955046, Longitude: 123.9019468
+Legazpi Exit: Latitude: 14.551474, Longitude: 121.0222149
+Legazpi St: Latitude: 14.5542713, Longitude: 121.0177903
+Leon Kilat St: Latitude: 10.2987107, Longitude: 123.8955949
+MJ Cuenca Ave: Error occurred - Service timed out
+MJ Cuence Ave: Coordinates not found
+MJ Cuenco Ave: Coordinates not found
+MO2 Restobar: Coordinates not found
+Mabini St: Latitude: 9.2493378, Longitude: 124.7152224
+Macro Tires Goodyear Autocare: Coordinates not found
+Mactan Cebu International Airport: Latitude: 10.310328, Longitude: 123.97927764356774
+Mactan Elementary School: Latitude: 10.3101703, Longitude: 124.00929557248793
+Mactan Island Aquarium: Coordinates not found
+Mactan Marina Mall: Latitude: 10.326131100000001, Longitude: 123.9774859
+Mactan Oasis Garden: Latitude: 10.2970541, Longitude: 124.00256907747536
+Mactan Shrine: Latitude: 10.3109738, Longitude: 124.01513796574585
+Mactan St: Latitude: 10.3420934, Longitude: 123.9070695
+Magallanes St: Latitude: 10.2942209, Longitude: 123.8998511
+Mambaling Flyover: Latitude: 10.2913336, Longitude: 123.877531
+Manalili St: Latitude: 10.2933731, Longitude: 123.8987772
+Mandaue City: Latitude: 10.3386873, Longitude: 123.954666
+Mandaue City Central School: Latitude: 10.32595115, Longitude: 123.94429953240706
+Mandaue City Hall: Latitude: 10.320840650000001, Longitude: 123.93399391382871
+Mandaue City Hall Post Office: Coordinates not found
+Mandaue City Hospital: Latitude: 10.323473700000001, Longitude: 123.94280770410366
+Mandaue City Sports and Cultural Complex: Coordinates not found
+Mandaue Coliseum: Coordinates not found
+Mandaue Public Market: Latitude: 10.32766865, Longitude: 123.9414342
+Mango: Latitude: 44.686443, Longitude: 8.150239
+Mango Square Mall: Latitude: 10.3108349, Longitude: 123.8954246
+Mango Swaure Mall: Coordinates not found
+Mantawe Road: Latitude: 10.3129381, Longitude: 123.9518616
+Marco Polo Hotel: Latitude: 6.0341956, Longitude: 80.2346916
+Mares Philippines: Latitude: 10.3619391, Longitude: 123.94912246911233
+Maria Ernestine School: Coordinates not found
+Maribago bluewater Beach Resort and Spa: Coordinates not found
+Marie Ernestine School: Latitude: 10.2916248, Longitude: 123.94488023001841
+Matimco Inc: Coordinates not found
+Mepz1 2nd Ave Road: Latitude: 10.3327289, Longitude: 123.9887605
+Metro Colon: Latitude: 10.2956036, Longitude: 123.8978958
+Metro Gaisano: Latitude: 13.9367651, Longitude: 121.6084217
+Metropolitan Cebu Water District: Latitude: 10.3770237, Longitude: 123.9609185
+Microdata System and Management Inc: Coordinates not found
+Miller Hospital: Latitude: 10.2958857, Longitude: 123.88770337628338
+Mj Cuenca Ave: Coordinates not found
+Mother of Perpetual Help Parish: Latitude: 13.9358197, Longitude: 121.38891995
+Movenpick Hotel Mactan Island Cebu: Latitude: 10.310710199999999, Longitude: 124.0236029
+Museo Sugbo: Latitude: 10.303826449999999, Longitude: 123.90670404460542
+N Bacalso Ave: Latitude: 10.2948049, Longitude: 123.8821135
+National Statistics Office NSO: Latitude: 9.7404859, Longitude: 118.7334136
+National Telecmmunications Office: Coordinates not found
+National Telecommunications Office: Latitude: 14.6499515, Longitude: 121.0204718
+New Mandaue City Public Market: Coordinates not found
+New Mandaue Public Market: Coordinates not found
+Norkis Park: Latitude: 10.32403295, Longitude: 123.94440828437092
+North Bus Terminal: Latitude: 10.3114083, Longitude: 123.9212362
+Oftana Suites: Coordinates not found
+Ompad St: Latitude: 10.3119538, Longitude: 123.9517921
+Opon Kindergarten and Bursery School: Coordinates not found
+Opon Plaza: Latitude: 10.299673349999999, Longitude: 123.97852121259909
+Osmena Blvd: Latitude: 10.3161285, Longitude: 123.8909867
+Osmeña Blvd: Coordinates not found
+Our Lady of the Rule Parish Church: Coordinates not found
+P Burgos St: Latitude: 14.3795017, Longitude: 121.4789388
+P Cabantan: Latitude: 10.3125773, Longitude: 123.9132763
+PLDT: Latitude: 16.3283971, Longitude: 120.6613344
+PLDT Smart Communications: Latitude: 10.31976075, Longitude: 123.91172325373418
+PNP Training Center Field: Coordinates not found
+Pacific Mall: Latitude: 43.82620225, Longitude: -79.30626673192222
+Padilla St: Latitude: 34.1013654, Longitude: -118.10686
+Pag-ibig: Latitude: 7.3085701, Longitude: 125.4090053
+Pag-ibig Fund Cebu Office: Coordinates not found
+Panganiban St: Latitude: 12.9155527, Longitude: 124.1248837
+Paradise Village Road: Latitude: 10.3345968, Longitude: 123.9136168
+Pardo: Latitude: 21.8850035, Longitude: -100.8576906
+Parkmall: Latitude: 10.32488945, Longitude: 123.93394524622832
+Pasil Fish Market: Latitude: 10.29145005, Longitude: 123.89200273431072
+Pelaez St: Latitude: 10.2992275, Longitude: 123.8981571
+Pelish English School: Coordinates not found
+Phoenix Publishing House: Coordinates not found
+Pier 1: Latitude: 26.092153, Longitude: -80.1204209
+Pier 2: Latitude: 37.7635937, Longitude: -122.38136545131114
+Pier 3: Latitude: 46.1860859, Longitude: -123.86278525610116
+Pier 4: Latitude: 32.6803116, Longitude: -117.1278249
+Pier 5: Latitude: 32.6782254, Longitude: -117.127038
+Pier 6: Latitude: 39.2831335, Longitude: -76.6041036
+Pilipog Elementary School: Latitude: 10.266213749999999, Longitude: 123.94614166573892
+Pit-os: Latitude: 10.3957221, Longitude: 123.9208157
+Pitos: Latitude: 39.8010323, Longitude: 19.8561749
+Plaridel St: Latitude: 13.619118, Longitude: 123.184299
+Pope John Paul II Ave: Latitude: 10.3176025, Longitude: 123.9126994
+Professional Regulations Commission PRC: Coordinates not found
+Progreso St: Latitude: 10.2924182, Longitude: 123.8983113
+Pueblo Verde Terminal: Latitude: 10.3015244, Longitude: 123.9633144
+Punta Engano Elementary and High School: Coordinates not found
+Punta Princesa: Latitude: -41.1770555, Longitude: -71.48404
+Punta Princesa Elementary School: Latitude: 10.29458355, Longitude: 123.87182095847973
+Queen City Memorial Garden: Latitude: 10.3102965, Longitude: 123.91291760202094
+Quest Hotel Cebu: Latitude: 10.3192193, Longitude: 123.90293875894929
+Quezon National Hwy: Latitude: 7.8122205, Longitude: 125.0726098
+Quiot: Latitude: 44.3959263, Longitude: 7.1910776
+R Arcenas St: Latitude: 11.1663152, Longitude: 123.7178298
+R Padilla St: Latitude: 10.2936979, Longitude: 123.8831789
+Radisson Blu Hotel Cebu: Latitude: 10.3100926, Longitude: 123.91968295317051
+Ramos Public Market: Latitude: 15.6654269, Longitude: 120.6395832
+Rizal Avenue: Latitude: 14.600595, Longitude: 120.9815526
+Robinson Mall: Latitude: 40.4546842, Longitude: -80.15762585667318
+Robinsons Place: Latitude: 14.8503237, Longitude: 120.8242825
+Robinsons Supermarket: Latitude: 10.66339775, Longitude: 122.96912952467125
+Royal Concourse Gourmet Mall: Coordinates not found
+Royal Oaks International School: Coordinates not found
+S&R Membership Shopping: Latitude: 14.6596275, Longitude: 121.01930461672276
+SB Cabahug AC Cortes Ave: Coordinates not found
+SB Cabahug AC cortes Ave: Coordinates not found
+SGen Maxillom Ext: Coordinates not found
+SM City Cebu: Latitude: 10.3116456, Longitude: 123.91805976430844
+SM Hypermarket: Latitude: 14.632228, Longitude: 120.95757412010367
+STI College: Latitude: 14.6290998, Longitude: 121.0136755
+Sacred Heart Hospital: Latitude: 53.6229813, Longitude: -8.184095804350296
+Salazar Colleges: Latitude: 10.295411, Longitude: 123.8830643
+Salinas Drive: Latitude: 32.4166322, Longitude: -99.7640836
+Samantabhadra Institute: Latitude: 14.6212087, Longitude: 120.9772183
+San Carlos Seminar Complex: Coordinates not found
+San Nicolas de Tolentino Parish Church: Latitude: 14.67225075, Longitude: 121.03754860729197
+San Roque Mambaling: Latitude: 10.2897678, Longitude: 123.8730548
+Sancianko St: Coordinates not found
+Savemore: Latitude: 14.6387897, Longitude: 121.00758510314944
+Securities and Exchange Commission SEC: Latitude: 23.7274244, Longitude: 90.4157503
+Senor San Roque Parish Church: Coordinates not found
+Sergio Osmeña Jr Blvd: Coordinates not found
+Shopwise: Latitude: 14.3762331, Longitude: 120.93961497037111
+Sikatuna St: Latitude: 10.2989339, Longitude: 123.9034206
+Sindulan St: Latitude: 10.3186126, Longitude: 123.9153332
+Smeag Sparta: Coordinates not found
+Social Security System SSS: Latitude: 8.484515949999999, Longitude: 124.63807581858903
+Sogo: Latitude: 0.3704446, Longitude: 9.5890386
+Sorroso International Hotel: Coordinates not found
+Southwestern University: Latitude: 30.6371513, Longitude: -97.66274097607483
+Southwestern University Basak Campus: Latitude: 10.2926244, Longitude: 123.8633034
+Spolarium St: Latitude: 10.2915096, Longitude: 123.884056
+Sr Santo Nino Chapel: Latitude: 7.0495921, Longitude: 125.5747601
+St James Amusement Park: Coordinates not found
+St Joseph Parish: Latitude: 15.4450509, Longitude: -61.38333194885386
+Standard Chartered Bank: Latitude: -17.8284312, Longitude: 31.0508078
+Stephenson St: Latitude: 35.5885835, Longitude: -78.7919016
+Sto Nino Brgy Hall: Latitude: 14.2972809, Longitude: 121.45976820719403
+Sto Nino de Mactan Church: Coordinates not found
+Sto Niño Brgy Hall: Coordinates not found
+Sto. Niño Brgy Hall: Coordinates not found
+Subangdako Elementary School: Error occurred - Service timed out
+Subangdaku Elementary School: Latitude: 10.32255215, Longitude: 123.92305828659285
+Sudlon: Latitude: 9.6119409, Longitude: 125.9394972
+Super Metro Gaisano Lapu Lapu: Coordinates not found
+Super Metro Gaisano Lapu-Lapu: Coordinates not found
+Sykes Asia: Coordinates not found
+T Padilla St: Latitude: 10.3019584, Longitude: 123.9073234
+Taboan Public Market: Latitude: 8.51333615, Longitude: 123.29217443283262
+Tagunol St: Error occurred - Service timed out
+Takan Public Market Park: Coordinates not found
+Talamban: Latitude: 9.9622224, Longitude: 123.1586423
+Talamban Elementary School: Latitude: 10.370094649999999, Longitude: 123.91733124611548
+Tamiya Terminal: Coordinates not found
+The Bellavista Hotel: Coordinates not found
+The Church Of Christ of Latter Day Saints Temple: Coordinates not found
+The Church of Christ of Latter Day Saints Temple: Coordinates not found
+The Golden Peak Hotel: Latitude: 10.31850885, Longitude: 123.90030889618434
+The Orchard Cebu Hotel and Suites: Coordinates not found
+The Persimmon: Latitude: 52.753311, Longitude: 0.4355423
+Tiburcio: Latitude: -24.3988571, Longitude: -61.4305162
+Tiburcio Padilla St: Latitude: 10.30157255, Longitude: 123.90434969277725
+Timex Philippines Incorporated: Coordinates not found
+Tintay Jeepney Terminal: Coordinates not found
+Tisa: Latitude: 45.9539558, Longitude: 22.4692356
+Tisa Elementary School: Error occurred - Service timed out
+Tisa National High School: Coordinates not found
+Tita Gwapa: Latitude: 10.295026400000001, Longitude: 123.86953014767442
+Tojong Hospital: Latitude: 10.3048146, Longitude: 123.94726643350688
+Tres de Abril St: Latitude: 10.2968257, Longitude: 123.8857617
+UN Ave: Latitude: 14.7133477, Longitude: 120.2901496
+USC Montesory Academy: Coordinates not found
+USC Talamban: Latitude: 10.3559376, Longitude: 123.90715382142977
+University of Cebu: Latitude: 10.29685165, Longitude: 123.89690377985923
+University of Cebu Banilad Campus: Latitude: 10.338666, Longitude: 123.91193306277366
+University of San Carlos: Latitude: 37.33519025, Longitude: -121.88122545292521
+University of San Carlos Main Campus: Error occurred - Service timed out
+University of San Carlos North Campus: Error occurred - Service timed out
+University of San Carlos South Campus: Error occurred - Service timed out
+University of San Jose Recoletos: Error occurred - Service timed out
+University of San Jose Recoletos Basak Campus: Error occurred - Service timed out
+University of San Jose Recoletos Main Campus: Error occurred - Service timed out
+University of Southern Philippines: Error occurred - Service timed out
+University of Southern Philippines Foundation: Error occurred - Service timed out
+University of Visayas: Latitude: 10.3266519, Longitude: 123.9453965
+University of the Philippines: Latitude: 14.6553377, Longitude: 121.0554183
+V Gullas St: Latitude: 10.2964792, Longitude: 123.8997507
+V Sotto St: Latitude: 10.2984202, Longitude: 123.9071398
+V Urgello St: Latitude: 10.3047667, Longitude: 123.8925171
+VSMMC: Coordinates not found
+Vicente Gullas St: Latitude: 10.2958343, Longitude: 123.8995712
+Vicente Sotto Hospital: Coordinates not found
+Waterfront Hotel: Latitude: 59.3299289, Longitude: 18.0559409
+White Gold Club: Latitude: 50.120627049999996, Longitude: -122.94305593642858
+White Gold House: Latitude: 10.306416, Longitude: 123.9101145
+Zapatera Elementary School: Latitude: 10.30331535, Longitude: 123.90228712288135
+Zulueta St: Error occurred - The operation did not complete (read) (_ssl.c:992)

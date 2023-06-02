@@ -1,0 +1,392 @@
+A Bonifacio St: Latitude: 10.3003076, Longitude: 123.9037576
+A Del Rosario St: Latitude: 10.330367, Longitude: 123.937484
+A Mabini St: Latitude: 10.326148, Longitude: 123.945321
+A Soriano Ave: Latitude: 10.3107696, Longitude: 123.9142853
+AITI Native Center: Latitude: 10.313671, Longitude: 124.024949
+Abellana Sports Complex: Latitude: 10.3005675, Longitude: 123.8954354
+Aicila Suites Hotel: Latitude: 10.3603253, Longitude: 123.9156136
+Allsons Inn: Latitude: 10.3094336, Longitude: 123.90375
+Allure Hotel and Suites: Latitude: 10.338882, Longitude: 123.929307
+Alumnos: Latitude: 10.2856791, Longitude: 123.8745039
+American Internation Training Institute: Latitude: 10.3122686, Longitude: 124.006603
+American International Training Institute: Latitude: 10.3122686, Longitude: 124.006603
+Amisa Residences: Latitude: 10.328166, Longitude: 124.041029
+Andy Hotel: Latitude: 10.3316249, Longitude: 123.9358247
+Apas: Latitude: 10.3376616, Longitude: 123.9079235
+Asilo De La Milagrosa: Latitude: 10.3149201, Longitude: 123.9023371
+Asilo de la Milagrosa: Latitude: 10.3149201, Longitude: 123.9023371
+Ayala Center Cebu: Latitude: 10.31754, Longitude: 123.9057056
+Ayala Public Utility Vehicle Terminal: Latitude: 10.318864, Longitude: 123.9035148
+B Aranas St: Latitude: 10.2947327, Longitude: 123.8893743
+B Benedicto St: Latitude: 10.30351, Longitude: 123.9094037
+BM Dimataga St: Latitude: 10.31465, Longitude: 123.951513
+Babag 2 Elementary School: Latitude: 10.2793918, Longitude: 123.9447753
+Babag Elementary School: Latitude: 10.2885671, Longitude: 123.9450413
+Babag National High School: Latitude: 10.288416, Longitude: 123.9448513
+Babag Night High School: Latitude: 10.285038, Longitude: 123.94426
+Babang II Road: Latitude: 10.2663278, Longitude: 123.9466916
+Bacayan: Latitude: 10.3835968, Longitude: 123.9220336
+Banawa: Latitude: 10.3236604, Longitude: 123.7906581
+Banilad Town Center: Latitude: 10.3409196, Longitude: 123.9127582
+Basilica Minore del Sto Niño: Latitude: 10.2940663, Longitude: 123.9021044
+Be Resorts Mactan: Latitude: 10.3141, Longitude: 124.026354
+Benedicto College: Latitude: 10.3371329, Longitude: 123.9300458
+Benedicto St: Latitude: 10.30351, Longitude: 123.9094037
+Bonifacio St: Latitude: 10.3003076, Longitude: 123.9037576
+Brgy Parian: Latitude: 10.2988149, Longitude: 123.9021627
+Bridges Town Square: Latitude: 10.3343689, Longitude: 123.9501659
+Bulacao: Latitude: 10.2726116, Longitude: 123.8508969
+Bureau of Immigration: Latitude: 10.3236604, Longitude: 123.7906581
+Bureau of Internal Revenue BIR: Latitude: 10.3236604, Longitude: 123.7906581
+Bureau of Quarantine: Latitude: 10.308392, Longitude: 123.908158
+Busay: Latitude: 10.3641103, Longitude: 123.882985
+C Padilla St: Latitude: 10.2929555, Longitude: 123.8859488
+CCNSHS: Latitude: 10.3236604, Longitude: 123.7906581
+CICC: Latitude: 10.3264088, Longitude: 123.9358921
+CM Cabahug: Latitude: 10.324211, Longitude: 123.950356
+CPILS: Latitude: 10.302856, Longitude: 123.9063515
+Calamba Cemetery: Latitude: 10.303359, Longitude: 123.8860447
+Camelita Monastery: Latitude: 10.3187219, Longitude: 123.911479
+Camp Lapu Lapu Elementary School: Latitude: 10.3370699, Longitude: 123.9064519
+Capitol: Latitude: 10.3168489, Longitude: 123.8906336
+Carbon City Hall: Latitude: 10.2929349, Longitude: 123.9015526
+Carbon Public Market: Latitude: 10.291927, Longitude: 123.89943
+Carlock St: Latitude: 10.3236604, Longitude: 123.7906581
+Carreta Cemetery: Latitude: 10.3105895, Longitude: 123.907011
+Castle Peak Hotel: Latitude: 10.3226077, Longitude: 123.9138739
+Cattleya Gardens and Memorial Park: Latitude: 10.263235, Longitude: 123.94917
+Cebu Business Park Waste Water Treatment Facility: Latitude: 10.313674, Longitude: 123.909342
+Cebu City Hall: Latitude: 10.2929349, Longitude: 123.9015526
+Cebu City Health Center: Latitude: 10.307848, Longitude: 123.908863
+Cebu City Medical Center: Latitude: 10.2979499, Longitude: 123.8920902
+Cebu Country Club: Latitude: 10.3308057, Longitude: 123.9111557
+Cebu Daily News: Latitude: 10.311509, Longitude: 123.9215979
+Cebu Doctors University: Latitude: 10.3197685, Longitude: 123.9332254
+Cebu Doctors University Hospital: Latitude: 10.3144559, Longitude: 123.8920288
+Cebu Homes and Builders Center: Latitude: 10.343057, Longitude: 123.915527
+Cebu Institute of Medicine: Latitude: 10.307164, Longitude: 123.8966952
+Cebu Institute of Technology University CITU: Latitude: 10.3156992, Longitude: 123.8854366
+Cebu International Convention Center: Latitude: 10.3264088, Longitude: 123.9358921
+Cebu Macta Ferry Terminal: Latitude: 10.2984429, Longitude: 123.9208687
+Cebu Mary Immaculate College: Latitude: 10.3701893, Longitude: 123.9188735
+Cebu Metropolitan Cathedral: Latitude: 10.2955765, Longitude: 123.9029952
+Cebu North Bus Terminal: Latitude: 10.31851, Longitude: 123.92545
+Cebu Parklane Hotel: Latitude: 10.320182, Longitude: 123.903381
+Cebu Provincial Capitol: Latitude: 10.3168489, Longitude: 123.8906336
+Cebu Sea World: Latitude: 10.316149, Longitude: 124.027994
+Cebu South Bus Terminal: Latitude: 10.2983308, Longitude: 123.8933885
+Cebu South Bus Terminal CSBT: Latitude: 10.2982638, Longitude: 123.8931472
+Cebu Technological University: Latitude: 10.3156992, Longitude: 123.8854366
+Cebu Technological University CTU: Latitude: 10.3156992, Longitude: 123.8854366
+Cebu Veterance Drive: Latitude: 10.3436859, Longitude: 123.8939261
+Cebu White Sands: Latitude: 10.2865516, Longitude: 123.9993767
+Citi Park: Latitude: 10.325823, Longitude: 123.916596
+Coca Cola: Latitude: 10.3236604, Longitude: 123.7906581
+Coca Cola Bottler Philippines Inc: Latitude: 10.330423, Longitude: 123.932886
+Coca Cola Bottlers Philippines Inc: Latitude: 10.330423, Longitude: 123.932886
+Cofta Mouldings Corporation: Latitude: 10.3226959, Longitude: 123.9240818
+Collegio de la Immacuada Concepcion: Latitude: 10.31167, Longitude: 123.9041501
+Collegio de la Immaculada Concepcion: Latitude: 10.3236604, Longitude: 123.7906581
+Colon: Latitude: 10.2967423, Longitude: 123.8990289
+Colon Obelisk: Latitude: 10.2979797, Longitude: 123.9036644
+Colon St: Latitude: 10.2967423, Longitude: 123.8990289
+Colonnade Supermarket: Latitude: 10.2971613, Longitude: 123.8999591
+Commission on Audit COA: Latitude: 10.3236604, Longitude: 123.7906581
+Cordova: Latitude: 10.2438638, Longitude: 123.9415518
+Cordova Academy Cooperative School: Latitude: 10.3236604, Longitude: 123.7906581
+Cordova Central School: Latitude: 10.2540701, Longitude: 123.9496394
+Cordova Municipal Hall: Latitude: 10.251994, Longitude: 123.949686
+Cortes General Hospital: Latitude: 10.329127, Longitude: 123.943173
+Country Mall: Latitude: 10.3394189, Longitude: 123.910812
+Court of Appeals: Latitude: 10.3058723, Longitude: 123.8768821
+Court of Appeals Katipunan St: Latitude: 10.3004488, Longitude: 123.8751988
+Crown Regency Hotel: Latitude: 10.3080134, Longitude: 123.894077
+Crown Regency Suites: Latitude: 10.3060745, Longitude: 123.9601511
+D Gaisano St: Latitude: 10.3301953, Longitude: 123.8933654
+Department of Foreign Affairs DFA: Latitude: 10.3236604, Longitude: 123.7906581
+Dionsio Jakosalem St: Latitude: 10.3023118, Longitude: 123.9005693
+Don Carlos Gothong High School: Latitude: 10.293708, Longitude: 123.889583
+Don Vicente Rama Memorial National High School: Latitude: 10.2906765, Longitude: 123.8654386
+EMD Carmelite School: Latitude: 10.3194471, Longitude: 123.9948013
+Eastern Christian School: Latitude: 10.3105877, Longitude: 123.9481295
+Elizabeth Mall Emall: Latitude: 10.2983587, Longitude: 123.8953188
+Escario Central Mall: Latitude: 10.3175527, Longitude: 123.8940928
+Express Inn: Latitude: 10.3236604, Longitude: 123.7906581
+F Cabahug St: Latitude: 10.324763, Longitude: 123.9156696
+F Urdaneta St: Latitude: 10.2952644, Longitude: 123.9044362
+Fooda Guadalupe: Latitude: 10.323293, Longitude: 123.883806
+Fooda Saversmart: Latitude: 10.311667, Longitude: 123.898497
+Fuente Osmena Circle: Latitude: 10.3102031, Longitude: 123.8936769
+Fuente Osmeña: Latitude: 10.3236604, Longitude: 123.7906581
+Fuente Osmeña Circle: Latitude: 10.3236604, Longitude: 123.7906581
+GV Tower Hotel: Latitude: 10.2976027, Longitude: 123.8974172
+Gaisano Country Mall: Latitude: 10.3394189, Longitude: 123.910812
+Gaisano Coutry Mall: Latitude: 10.3394189, Longitude: 123.910812
+Gaisano Grand Jai Alai: Latitude: 10.2918709, Longitude: 123.8798444
+Gaisano Grand Mall: Latitude: 10.3236604, Longitude: 123.7906581
+Gaisano Macta: Latitude: 10.2990463, Longitude: 123.9638531
+Gaisano Mactan: Latitude: 10.3167056, Longitude: 123.9630579
+Gaisano Main: Latitude: 10.2975856, Longitude: 123.9017269
+Gaisano Tisa: Latitude: 10.2996147, Longitude: 123.8693326
+Gen Echavez St: Latitude: 10.310333, Longitude: 123.903815
+General Maxilom Ave: Latitude: 10.3114939, Longitude: 123.9005213
+General Maxilom Ave Ext: Latitude: 10.306426, Longitude: 123.910329
+Ginebra San Miguel Inc: Latitude: 10.3236604, Longitude: 123.7906581
+Goldberry Suites and Hotel: Latitude: 10.3181443, Longitude: 123.8987632
+Golden Peak Hotel: Latitude: 10.3186945, Longitude: 123.9006976
+Good Shepherd St: Latitude: 10.313852, Longitude: 123.8768497
+Gorordo Ave: Latitude: 10.3205967, Longitude: 123.8991322
+Grand Arcade Building: Latitude: 10.330526, Longitude: 123.947547
+Grand Mall: Latitude: 10.3290662, Longitude: 123.9325557
+Guadalupe Church: Latitude: 10.3305449, Longitude: 123.880357
+Gv Tower Hotel: Latitude: 10.2976027, Longitude: 123.8974172
+Hall of Justice: Latitude: 10.3071032, Longitude: 123.9178812
+Harolds Hotel Cebu: Latitude: 10.319852, Longitude: 123.899044
+Hopodromo: Latitude: 10.3123623, Longitude: 123.9073923
+Horizons 101: Latitude: 10.3106145, Longitude: 123.896144
+Hotel Elizabeth Cebu: Latitude: 10.3166293, Longitude: 123.9022355
+Hotel Nenita: Latitude: 10.3236604, Longitude: 123.7906581
+IT Park: Latitude: 10.3304499, Longitude: 123.9073923
+Ibo Elementary School: Latitude: 10.3651412, Longitude: 123.6192767
+Iglesia ni Cristo: Latitude: 10.3119612, Longitude: 123.899621
+Imperial Palace Waterpark Resort & Spa: Latitude: 10.2833729, Longitude: 123.993913
+Imus Ave: Latitude: 10.3054458, Longitude: 123.9046851
+Inayawan Church: Latitude: 10.269774, Longitude: 123.856346
+Insular Kife Cebu Business Center: Latitude: 10.3204089, Longitude: 123.9045123
+Insular Life Cebu Busincess Center: Latitude: 10.31958, Longitude: 123.903337
+Insular Life Cebu Business Center: Latitude: 10.31968, Longitude: 123.906009
+J Alcantara: Latitude: 10.298593, Longitude: 123.887727
+J Centre: Latitude: 10.3354095, Longitude: 123.933664
+JC Veyra St: Latitude: 10.3236604, Longitude: 123.7906581
+JY Square Mall: Latitude: 10.3305933, Longitude: 123.8988523
+Jai Alai: Latitude: 10.3236604, Longitude: 123.7906581
+Jose Fortichi St: Latitude: 10.3132861, Longitude: 123.8825814
+Juan Luna Ave: Latitude: 10.3196098, Longitude: 123.9113617
+Junquera St: Latitude: 10.3007009, Longitude: 123.8989454
+Katipunan Lumber: Latitude: 10.2949642, Longitude: 123.8945793
+Katipunan St: Latitude: 10.3004488, Longitude: 123.8751988
+Keppel Tower Cebu Business Park: Latitude: 10.318585, Longitude: 123.908266
+Kingdom Resources Corporation: Latitude: 10.321042, Longitude: 123.922268
+Kosmos Furniture Designs Philippines Inc: Latitude: 10.336827, Longitude: 123.952705
+Kuya J's Restaurant: Latitude: 10.319192, Longitude: 123.901484
+LS Pension House: Latitude: 10.3031788, Longitude: 123.8976895
+LS Pension House 1: Latitude: 10.302601, Longitude: 123.89814
+La Nueva: Latitude: 10.292394, Longitude: 123.902662
+La Nueva Supermarket: Latitude: 10.292438, Longitude: 123.9025453
+Labangon: Latitude: 10.2989677, Longitude: 123.8813181
+Labangon Elementary School: Latitude: 10.299689, Longitude: 123.8807131
+Labangon Public Market: Latitude: 10.2994532, Longitude: 123.879342
+Labangon Public Markey: Latitude: 10.2994532, Longitude: 123.879342
+Lahug: Latitude: 10.3338299, Longitude: 123.8941434
+Lahug Brgy Hall: Latitude: 10.3241, Longitude: 123.898424
+Lakandula St: Latitude: 10.2940523, Longitude: 123.8920837
+Landers Superstore Cebu: Latitude: 10.320312, Longitude: 123.909773
+Lapu Lapu City Central School: Latitude: 10.3088426, Longitude: 123.9477592
+Lapu Lapu City PUJ Terminal: Latitude: 10.3128256, Longitude: 123.9569941
+Lapu Lapu City Public Market: Latitude: 10.3168343, Longitude: 123.9649926
+Legaspi Extn: Latitude: 10.2939139, Longitude: 123.9061751
+Legaspi St: Latitude: 10.2955389, Longitude: 123.9017567
+Legazpi Exit: Latitude: 10.294265, Longitude: 123.905022
+Legazpi St: Latitude: 10.296339, Longitude: 123.899996
+Leon Kilat St: Latitude: 10.2963913, Longitude: 123.8962662
+MJ Cuenca Ave: Latitude: 10.2999962, Longitude: 123.90635
+MJ Cuence Ave: Latitude: 10.2999962, Longitude: 123.90635
+MJ Cuenco Ave: Latitude: 10.2999962, Longitude: 123.90635
+MO2 Restobar: Latitude: 10.3217047, Longitude: 123.929582
+Mabini St: Latitude: 11.0814495, Longitude: 123.9354152
+Macro Tires Goodyear Autocare: Latitude: 10.327568, Longitude: 123.929346
+Mactan Cebu International Airport: Latitude: 10.3131063, Longitude: 123.976449
+Mactan Elementary School: Latitude: 10.3103961, Longitude: 124.0095719
+Mactan Island Aquarium: Latitude: 10.285282, Longitude: 123.996783
+Mactan Marina Mall: Latitude: 10.3260327, Longitude: 123.9776786
+Mactan Oasis Garden: Latitude: 10.2967846, Longitude: 124.0024785
+Mactan Shrine: Latitude: 10.3108686, Longitude: 124.0152301
+Mactan St: Latitude: 10.3490622, Longitude: 123.903058
+Magallanes St: Latitude: 10.2941956, Longitude: 123.8999677
+Mambaling Flyover: Latitude: 10.2912263, Longitude: 123.8773972
+Manalili St: Latitude: 10.2939589, Longitude: 123.8989211
+Mandaue City: Latitude: 10.3321417, Longitude: 123.9357136
+Mandaue City Central School: Latitude: 10.326034, Longitude: 123.944489
+Mandaue City Hall: Latitude: 10.3274469, Longitude: 123.9431395
+Mandaue City Hall Post Office: Latitude: 10.3267306, Longitude: 123.9427039
+Mandaue City Hospital: Latitude: 10.3233294, Longitude: 123.9426864
+Mandaue City Sports and Cultural Complex: Latitude: 10.3236961, Longitude: 123.9412475
+Mandaue Coliseum: Latitude: 10.3329245, Longitude: 123.9446447
+Mandaue Public Market: Latitude: 10.327882, Longitude: 123.940987
+Mango: Latitude: 10.3114939, Longitude: 123.9005213
+Mango Square Mall: Latitude: 10.310299, Longitude: 123.895522
+Mango Swaure Mall: Latitude: 10.310299, Longitude: 123.895522
+Mantawe Road: Latitude: 10.312205, Longitude: 123.954484
+Marco Polo Hotel: Latitude: 10.3236604, Longitude: 123.7906581
+Mares Philippines: Latitude: 10.309942, Longitude: 124.020558
+Maria Ernestine School: Latitude: 10.3677227, Longitude: 123.9138838
+Maribago bluewater Beach Resort and Spa: Latitude: 10.288018, Longitude: 123.999393
+Marie Ernestine School: Latitude: 10.3677227, Longitude: 123.9138838
+Matimco Inc: Latitude: 10.3236604, Longitude: 123.7906581
+Mepz1 2nd Ave Road: Latitude: 10.3285692, Longitude: 123.9848793
+Metro Colon: Latitude: 10.295899, Longitude: 123.8982618
+Metro Gaisano: Latitude: 10.2960608, Longitude: 123.8983081
+Metropolitan Cebu Water District: Latitude: 10.2927983, Longitude: 123.9030364
+Microdata System and Management Inc: Latitude: 10.3456, Longitude: 123.897003
+Miller Hospital: Latitude: 10.2959051, Longitude: 123.8876657
+Mj Cuenca Ave: Latitude: 10.2999962, Longitude: 123.90635
+Mother of Perpetual Help Parish: Latitude: 10.3012693, Longitude: 123.8171668
+Movenpick Hotel Mactan Island Cebu: Latitude: 10.3107607, Longitude: 124.0229825
+Museo Sugbo: Latitude: 10.303791, Longitude: 123.9064311
+N Bacalso Ave: Latitude: 10.2881334, Longitude: 123.864659
+National Statistics Office NSO: Latitude: 10.3236604, Longitude: 123.7906581
+National Telecmmunications Office: Latitude: 10.3229296, Longitude: 123.9248827
+National Telecommunications Office: Latitude: 10.323301, Longitude: 123.924633
+New Mandaue City Public Market: Latitude: 10.3226922, Longitude: 123.941029
+New Mandaue Public Market: Latitude: 10.327882, Longitude: 123.940987
+Norkis Park: Latitude: 10.3240869, Longitude: 123.944514
+North Bus Terminal: Latitude: 10.31851, Longitude: 123.92545
+Oftana Suites: Latitude: 10.3410945, Longitude: 123.9196372
+Ompad St: Latitude: 10.312785, Longitude: 123.951439
+Opon Kindergarten and Bursery School: Latitude: 10.3236604, Longitude: 123.7906581
+Opon Plaza: Latitude: 10.3127014, Longitude: 123.9490442
+Osmena Blvd: Latitude: 10.3038148, Longitude: 123.8953502
+Osmeña Blvd: Latitude: 10.3236604, Longitude: 123.7906581
+Our Lady of the Rule Parish Church: Latitude: 10.312632, Longitude: 123.948345
+P Burgos St: Latitude: 10.2949148, Longitude: 123.9033405
+P Cabantan: Latitude: 10.321315, Longitude: 123.9072458
+PLDT: Latitude: 10.3236604, Longitude: 123.7906581
+PLDT Smart Communications: Latitude: 10.319425, Longitude: 123.9115635
+PNP Training Center Field: Latitude: 10.3352503, Longitude: 123.9069565
+Pacific Mall: Latitude: 10.3410007, Longitude: 123.9474857
+Padilla St: Latitude: 10.2929555, Longitude: 123.8859488
+Pag-ibig: Latitude: 10.3236604, Longitude: 123.7906581
+Pag-ibig Fund Cebu Office: Latitude: 10.3156992, Longitude: 123.8854366
+Panganiban St: Latitude: 10.2955518, Longitude: 123.8932538
+Paradise Village Road: Latitude: 10.335304, Longitude: 123.910945
+Pardo: Latitude: 10.2785117, Longitude: 123.8543127
+Parkmall: Latitude: 10.3247753, Longitude: 123.9348049
+Pasil Fish Market: Latitude: 10.2917866, Longitude: 123.8921385
+Pelaez St: Latitude: 11.0523714, Longitude: 124.0137045
+Pelish English School: Latitude: 10.37385, Longitude: 123.918702
+Phoenix Publishing House: Latitude: 10.3369688, Longitude: 123.9130676
+Pier 1: Latitude: 10.292636, Longitude: 123.9083231
+Pier 2: Latitude: 10.2957117, Longitude: 123.9084482
+Pier 3: Latitude: 10.2971645, Longitude: 123.9111257
+Pier 4: Latitude: 10.303601, Longitude: 123.91268
+Pier 5: Latitude: 10.3041074, Longitude: 123.9174315
+Pier 6: Latitude: 10.3067521, Longitude: 123.9216851
+Pilipog Elementary School: Latitude: 10.2659258, Longitude: 123.9460603
+Pit-os: Latitude: 10.3987593, Longitude: 123.9197345
+Pitos: Latitude: 10.3987593, Longitude: 123.9197345
+Plaridel St: Latitude: 10.3386048, Longitude: 123.9549811
+Pope John Paul II Ave: Latitude: 10.3196098, Longitude: 123.9113617
+Professional Regulations Commission PRC: Latitude: 10.3173038, Longitude: 123.8850433
+Progreso St: Latitude: 10.2922014, Longitude: 123.8990336
+Pueblo Verde Terminal: Latitude: 10.302052, Longitude: 123.962985
+Punta Engano Elementary and High School: Latitude: 10.323878, Longitude: 124.037322
+Punta Princesa: Latitude: 10.294754, Longitude: 123.8676399
+Punta Princesa Elementary School: Latitude: 10.294382, Longitude: 123.872
+Queen City Memorial Garden: Latitude: 10.309265, Longitude: 123.91226
+Quest Hotel Cebu: Latitude: 10.3193763, Longitude: 123.903053
+Quezon National Hwy: Latitude: 10.2791339, Longitude: 123.9877188
+Quiot: Latitude: 10.2950296, Longitude: 123.8550829
+R Arcenas St: Latitude: 10.309521, Longitude: 123.876054
+R Padilla St: Latitude: 10.2936847, Longitude: 123.8831771
+Radisson Blu Hotel Cebu: Latitude: 10.30943, Longitude: 123.91851
+Ramos Public Market: Latitude: 10.3045255, Longitude: 123.899112
+Rizal Avenue: Latitude: 10.2471693, Longitude: 123.8426937
+Robinson Mall: Latitude: 10.3236604, Longitude: 123.7906581
+Robinsons Place: Latitude: 10.3236604, Longitude: 123.7906581
+Robinsons Supermarket: Latitude: 10.3236604, Longitude: 123.7906581
+Royal Concourse Gourmet Mall: Latitude: 10.3162822, Longitude: 123.9013347
+Royal Oaks International School: Latitude: 10.3164319, Longitude: 123.885396
+S&R Membership Shopping: Latitude: 10.3184933, Longitude: 123.9310595
+SB Cabahug AC Cortes Ave: Latitude: 10.3326704, Longitude: 123.944204
+SB Cabahug AC cortes Ave: Latitude: 10.3326704, Longitude: 123.944204
+SGen Maxillom Ext: Latitude: 10.3029112, Longitude: 123.9133503
+SM City Cebu: Latitude: 10.3120113, Longitude: 123.9181856
+SM Hypermarket: Latitude: 10.3148422, Longitude: 123.9242477
+STI College: Latitude: 10.3236604, Longitude: 123.7906581
+Sacred Heart Hospital: Latitude: 10.3236604, Longitude: 123.7906581
+Salazar Colleges: Latitude: 10.295954, Longitude: 123.883857
+Salinas Drive: Latitude: 10.3298821, Longitude: 123.9007555
+Samantabhadra Institute: Latitude: 10.3236604, Longitude: 123.7906581
+San Carlos Seminar Complex: Latitude: 10.3221705, Longitude: 123.9097729
+San Nicolas de Tolentino Parish Church: Latitude: 10.2936929, Longitude: 123.8915338
+San Roque Mambaling: Latitude: 10.2895854, Longitude: 123.8763758
+Sancianko St: Latitude: 10.2972938, Longitude: 123.8960221
+Savemore: Latitude: 10.3236604, Longitude: 123.7906581
+Securities and Exchange Commission SEC: Latitude: 10.3236604, Longitude: 123.7906581
+Senor San Roque Parish Church: Latitude: 10.251303, Longitude: 123.950023
+Sergio Osmeña Jr Blvd: Latitude: 10.3236604, Longitude: 123.7906581
+Shopwise: Latitude: 10.2895961, Longitude: 123.8707403
+Sikatuna St: Latitude: 10.300414, Longitude: 123.903064
+Sindulan St: Latitude: 10.319353, Longitude: 123.915979
+Smeag Sparta: Latitude: 10.374457, Longitude: 123.91901
+Social Security System SSS: Latitude: 10.3500564, Longitude: 123.9481279
+Sogo: Latitude: 10.2978171, Longitude: 123.897782
+Sorroso International Hotel: Latitude: 10.324343, Longitude: 123.915341
+Southwestern University: Latitude: 10.3031882, Longitude: 123.8913253
+Southwestern University Basak Campus: Latitude: 10.292571, Longitude: 123.863207
+Spolarium St: Latitude: 10.292497, Longitude: 123.892471
+Sr Santo Nino Chapel: Latitude: 10.3236604, Longitude: 123.7906581
+St James Amusement Park: Latitude: 10.324396, Longitude: 123.935644
+St Joseph Parish: Latitude: 9.790281000000002, Longitude: 123.3471565
+Standard Chartered Bank: Latitude: 10.3236604, Longitude: 123.7906581
+Stephenson St: Latitude: 10.333943, Longitude: 123.901493
+Sto Nino Brgy Hall: Latitude: 10.295138, Longitude: 123.902893
+Sto Nino de Mactan Church: Latitude: 10.3087379, Longitude: 124.0103549
+Sto Niño Brgy Hall: Latitude: 10.3236604, Longitude: 123.7906581
+Sto. Niño Brgy Hall: Latitude: 10.3236604, Longitude: 123.7906581
+Subangdako Elementary School: Latitude: 10.322213, Longitude: 123.9233267
+Subangdaku Elementary School: Latitude: 10.322213, Longitude: 123.9233267
+Sudlon: Latitude: 10.3753742, Longitude: 123.7880837
+Super Metro Gaisano Lapu Lapu: Latitude: 10.312548, Longitude: 123.955523
+Super Metro Gaisano Lapu-Lapu: Latitude: 10.312548, Longitude: 123.955523
+Sykes Asia: Latitude: 10.3106145, Longitude: 123.896144
+T Padilla St: Latitude: 10.3019728, Longitude: 123.9073451
+Taboan Public Market: Latitude: 10.295522, Longitude: 123.8911419
+Tagunol St: Latitude: 10.288592, Longitude: 123.873625
+Takan Public Market Park: Latitude: 10.2716979, Longitude: 123.9461693
+Talamban: Latitude: 10.3670682, Longitude: 123.9173923
+Talamban Elementary School: Latitude: 10.3698102, Longitude: 123.9217747
+Tamiya Terminal: Latitude: 10.30144, Longitude: 123.96336
+The Bellavista Hotel: Latitude: 10.3214794, Longitude: 123.9677576
+The Church Of Christ of Latter Day Saints Temple: Latitude: 10.327391, Longitude: 123.897799
+The Church of Christ of Latter Day Saints Temple: Latitude: 10.327391, Longitude: 123.897799
+The Golden Peak Hotel: Latitude: 10.3185255, Longitude: 123.900146
+The Orchard Cebu Hotel and Suites: Latitude: 10.337035, Longitude: 123.931009
+The Persimmon: Latitude: 10.3123922, Longitude: 123.911094
+Tiburcio: Latitude: 10.301849, Longitude: 123.906463
+Tiburcio Padilla St: Latitude: 10.301849, Longitude: 123.906463
+Timex Philippines Incorporated: Latitude: 10.3242561, Longitude: 123.9798789
+Tintay Jeepney Terminal: Latitude: 10.3188571, Longitude: 123.903643
+Tisa: Latitude: 10.301553, Longitude: 123.870527
+Tisa Elementary School: Latitude: 10.298767, Longitude: 123.869867
+Tisa National High School: Latitude: 10.3010515, Longitude: 123.8692149
+Tita Gwapa: Latitude: 10.3327271, Longitude: 123.9495231
+Tojong Hospital: Latitude: 10.2985002, Longitude: 123.9019506
+Tres de Abril St: Latitude: 10.2976607, Longitude: 123.8823523
+UN Ave: Latitude: 10.3383567, Longitude: 123.9560297
+USC Montesory Academy: Latitude: 10.313182, Longitude: 123.900591
+USC Talamban: Latitude: 10.3523044, Longitude: 123.914119
+University of Cebu: Latitude: 10.2974611, Longitude: 123.8969941
+University of Cebu Banilad Campus: Latitude: 10.3384599, Longitude: 123.9119323
+University of San Carlos: Latitude: 10.3236604, Longitude: 123.7906581
+University of San Carlos Main Campus: Latitude: 10.3521222, Longitude: 123.9132676
+University of San Carlos North Campus: Latitude: 10.3118001, Longitude: 123.901127
+University of San Carlos South Campus: Latitude: 10.300413, Longitude: 123.887984
+University of San Jose Recoletos: Latitude: 10.293997, Longitude: 123.8975074
+University of San Jose Recoletos Basak Campus: Latitude: 10.2899758, Longitude: 123.861891
+University of San Jose Recoletos Main Campus: Latitude: 10.293997, Longitude: 123.8975074
+University of Southern Philippines: Latitude: 10.3285589, Longitude: 123.9009976
+University of Southern Philippines Foundation: Latitude: 10.3285589, Longitude: 123.9009976
+University of Visayas: Latitude: 10.2984693, Longitude: 123.901289
+University of the Philippines: Latitude: 10.3236604, Longitude: 123.7906581
+V Gullas St: Latitude: 10.2969085, Longitude: 123.9021698
+V Sotto St: Latitude: 10.2985029, Longitude: 123.9080316
+V Urgello St: Latitude: 10.30462, Longitude: 123.892381
+VSMMC: Latitude: 10.3080071, Longitude: 123.8915916
+Vicente Gullas St: Latitude: 10.2969085, Longitude: 123.9021698
+Vicente Sotto Hospital: Latitude: 10.30898, Longitude: 123.891732
+Waterfront Hotel: Latitude: 10.3247918, Longitude: 123.9045043
+White Gold Club: Latitude: 10.3085885, Longitude: 123.9144827
+White Gold House: Latitude: 10.3072965, Longitude: 123.9103915
+Zapatera Elementary School: Latitude: 10.3035629, Longitude: 123.9021311
+Zulueta St: Latitude: 10.2985619, Longitude: 123.9049727
